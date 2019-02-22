@@ -1,0 +1,5 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+891805,"Beverages and Catering",175117,35023.4,210140,RON,2017-03-10
+966760,"Beverages and Catering",54772,10954.4,65726.4,RON,2017-03-23
+415665,"Professional Services",40983,8196.6,49179.6,RON,2017-03-20
+213398,"IT Support",100385,20077,120462,CAD,2017-03-26

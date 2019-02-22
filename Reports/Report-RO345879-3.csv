@@ -1,0 +1,5 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+484505,"Waste management services",285294,57058.8,342353,EUR,2017-03-04
+635160,"Various paper supplies",505,101,606,USD,2017-03-08
+551379,"Various paper supplies",114423,22884.6,137308,RON,2017-03-12
+164504,"Various paper supplies",62820,12564,75384,CAD,2017-03-20

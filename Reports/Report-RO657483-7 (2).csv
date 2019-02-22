@@ -1,0 +1,5 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+919780,"Beverages and Catering",91686,18337.2,110023,EUR,2017-07-23
+545852,"Waste management services",96834,19366.8,116201,RON,2017-07-04
+858975,"Various paper supplies",291908,58381.6,350290,USD,2017-07-08
+870318,"Waste management services",225611,45122.2,270733,EUR,2017-07-06

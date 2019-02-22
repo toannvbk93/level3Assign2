@@ -1,0 +1,3 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+527780,"Professional Services",238074,47614.8,285689,CAD,2017-02-18
+253938,"Professional Services",108928,21785.6,130714,EUR,2017-02-09

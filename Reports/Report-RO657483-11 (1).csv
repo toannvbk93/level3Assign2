@@ -1,0 +1,6 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+234076,"Various paper supplies",150976,30195.2,181171,CAD,2017-11-14
+651279,"Professional Services",283664,56732.8,340397,USD,2017-11-04
+904789,"Concierge Services",224008,44801.6,268810,USD,2017-11-21
+819547,"Waste management services",282598,56519.6,339118,USD,2017-11-10
+312482,"Beverages and Catering",241718,48343.6,290062,CAD,2017-11-02
